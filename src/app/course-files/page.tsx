@@ -1,1 +1,7 @@
-export default function Page(){return <main style={padding:24}><h1>course-files</h1></main>}
+export default function Page() {
+  return (
+    <main style={{ padding: 24 }}>
+      <h1>Course Files</h1>
+    </main>
+  );
+}
