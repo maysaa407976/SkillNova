@@ -1,1 +1,5 @@
-export default function Page(){return <main style={padding:24}><h1>courses</h1></main>}
+export default function Page(){return  <main>
+      <h1>Course Files</h1>
+    </main>
+  );
+}
