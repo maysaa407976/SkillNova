@@ -1,5 +1,7 @@
-export default function Page(){return  <main>
-      <h1>Course Files</h1>
+export default function Page() {
+  return (
+    <main>
+      <h1>Course Certificates</h1>
     </main>
   );
 }
