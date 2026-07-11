@@ -1,2 +1,2 @@
-# Skillnova
-AI-powered learning and productivity platform for education, projects, courses, certifications, and community collaboration
+# SkillNova Alpha v3
+Expanded scaffold with marketplace, analytics, library, flashcards and games.
