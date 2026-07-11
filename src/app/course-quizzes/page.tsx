@@ -1,0 +1,1 @@
+export default function Page(){return <main style={padding:24}><h1>course-quizzes</h1></main>}

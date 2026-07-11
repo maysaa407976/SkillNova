@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>SkillNova Alpha v3</h1><p>AI Learning & Creator Platform</p></main>}

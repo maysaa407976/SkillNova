@@ -1,0 +1,1 @@
+export default function Page(){return <main style={padding:24}><h1>tasks</h1></main>}
